@@ -1,28 +1,11 @@
 ﻿#明日方舟B服过防沉迷hosts
-
 127.0.0.1 gameinfoc.biligame.net
-
 127.0.0.1 line1-sdk-center-login-sh.biligame.net
-
 127.0.0.1 line3-sdk-center-login-sh.biligame.net
-
 127.0.0.1 line1-sdkcenter-login.bilibiligame.net
-
 127.0.0.1 line3-sdkcenter-login.bilibiligame.net
-
 127.0.0.1 line1-login.biligame.net
-
 127.0.0.1 line3-login.biligame.net
-
 127.0.0.1 line1-realtime-api.biligame.net
-
 127.0.0.1 line3-realtime-api.biligame.net
-
 127.0.0.1 p.biligame.com
-
-
-
-210.129.120.44 pixiv.net
-210.129.120.43 accounts.pixiv.net
-210.140.131.147 source.pixiv.net
-210.129.120.44 www.pixiv.net
